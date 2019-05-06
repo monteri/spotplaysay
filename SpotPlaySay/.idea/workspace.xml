@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1cb8f946-2584-4fd1-aaf1-9f42ded53d34" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1457255837">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="31" />
+          <entry key="project.open.time.1" value="5" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.107" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.121" value="1" />
+          <entry key="project.open.time.140" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.22" value="2" />
+          <entry key="project.open.time.221" value="1" />
+          <entry key="project.open.time.23" value="2" />
+          <entry key="project.open.time.238" value="1" />
+          <entry key="project.open.time.25" value="4" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.55" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.65" value="1" />
+          <entry key="project.open.time.82" value="1" />
+          <entry key="project.opened" value="31" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="10" />
+          <entry key="py" value="163" />
+          <entry key="txt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="10" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="163" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="1" />
+          <entry key="html" value="714" />
+          <entry key="py" value="7563" />
+          <entry key="txt" value="2665" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="714" />
+          <entry key="PLAIN_TEXT" value="2666" />
+          <entry key="Python" value="7563" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sps-backend/places/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6749">
+              <caret line="411" column="76" selection-start-line="411" selection-start-column="76" selection-end-line="411" selection-end-column="76" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sps-backend/places/api/serializers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sps-backend/rewards/views.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sps-backend/rewards/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sps-backend/rewards/api/serializers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+                <marker date="1548350379668" expanded="true" signature="292:297" ph="..." />
+                <marker date="1548350379668" expanded="true" signature="505:506" ph="..." />
+                <marker date="1548350379668" expanded="true" signature="505:507" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sps-backend/places/api/viewsets.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2618">
+              <caret line="174" column="88" selection-start-line="174" selection-start-column="73" selection-end-line="174" selection-end-column="88" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sps-backend/rewards/api/viewsets.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sps-backend/saynplay/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2652">
+              <caret line="156" column="40" selection-start-line="156" selection-start-column="40" selection-end-line="156" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sps-backend/places/api/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sps-backend/saynplay/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>phone</find>
+      <find>NoreverseMatch</find>
+      <find>Norevers</find>
+      <find>reverse</find>
+      <find>choice</find>
+      <find>string</find>
+      <find>get_type_display</find>
+      <find>integer</find>
+      <find>EmailMessage</find>
+      <find>price</find>
+      <find>host</find>
+      <find>IsAuthenticated</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/sps-backend" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sps-backend/places/migrations/0012_auto_20170905_1750.py" />
+        <option value="$PROJECT_DIR$/sps-backend/places/migrations/0024_auto_20190104_1342.py" />
+        <option value="$PROJECT_DIR$/sps-backend/places/migrations/0023_auto_20181226_0857.py" />
+        <option value="$PROJECT_DIR$/Lib/site-packages/rest_framework/templatetags/rest_framework.py" />
+        <option value="$PROJECT_DIR$/Lib/site-packages/rest_framework/routers.py" />
+        <option value="$PROJECT_DIR$/Lib/site-packages/rest_framework/compat.py" />
+        <option value="$PROJECT_DIR$/Lib/site-packages/rest_framework/relations.py" />
+        <option value="$PROJECT_DIR$/Lib/site-packages/rest_framework/reverse.py" />
+        <option value="$PROJECT_DIR$/sps-backend/users/api/serializers.py" />
+        <option value="$PROJECT_DIR$/sps-backend/rewards/admin.py" />
+        <option value="$PROJECT_DIR$/sps-backend/rewards/migrations/0001_initial.py" />
+        <option value="$PROJECT_DIR$/sps-backend/users/admin.py" />
+        <option value="$PROJECT_DIR$/sps-backend/users/forms.py" />
+        <option value="$PROJECT_DIR$/sps-backend/users/token.py" />
+        <option value="$PROJECT_DIR$/sps-backend/users/urls.py" />
+        <option value="$PROJECT_DIR$/sps-backend/users/api/views.py" />
+        <option value="$PROJECT_DIR$/sps-backend/rewards/models.py" />
+        <option value="$PROJECT_DIR$/sps-backend/places/admin.py" />
+        <option value="$PROJECT_DIR$/sps-backend/users/views.py" />
+        <option value="$PROJECT_DIR$/sps-backend/places/template/place/booking.html" />
+        <option value="$PROJECT_DIR$/sps-backend/places/template/place/booking_place.html" />
+        <option value="$PROJECT_DIR$/sps-backend/places/template/place/booking_user.html" />
+        <option value="$PROJECT_DIR$/sps-backend/places/template/place/booking_admin.html" />
+        <option value="$PROJECT_DIR$/sps-backend/places/urls.py" />
+        <option value="$PROJECT_DIR$/sps-backend/rewards/api/serializer.py" />
+        <option value="$PROJECT_DIR$/sps-backend/saynplay/urls.py" />
+        <option value="$PROJECT_DIR$/sps-backend/rewards/api/viewsets.py" />
+        <option value="$PROJECT_DIR$/sps-backend/rewards/urls.py" />
+        <option value="$PROJECT_DIR$/sps-backend/rewards/api/serializers.py" />
+        <option value="$PROJECT_DIR$/sps-backend/users/models.py" />
+        <option value="$PROJECT_DIR$/sps-backend/places/templates/place/booking_user.html" />
+        <option value="$PROJECT_DIR$/sps-backend/places/templates/place/booking_admin.html" />
+        <option value="$PROJECT_DIR$/sps-backend/places/templates/place/booking_place.html" />
+        <option value="$PROJECT_DIR$/sps-backend/places/api/viewsets.py" />
+        <option value="$PROJECT_DIR$/sps-backend/places/models.py" />
+        <option value="$PROJECT_DIR$/sps-backend/places/api/serializers.py" />
+        <option value="$PROJECT_DIR$/sps-backend/places/api/views.py" />
+        <option value="$PROJECT_DIR$/sps-backend/saynplay/settings.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="840" />
+    <option name="width" value="840" />
+    <option name="height" value="1010" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SpotPlaySay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpotPlaySay" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpotPlaySay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpotPlaySay" type="462c0819:PsiDirectoryNode" />
+              <item name="sps-backend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpotPlaySay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpotPlaySay" type="462c0819:PsiDirectoryNode" />
+              <item name="sps-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="places" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpotPlaySay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpotPlaySay" type="462c0819:PsiDirectoryNode" />
+              <item name="sps-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="places" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpotPlaySay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpotPlaySay" type="462c0819:PsiDirectoryNode" />
+              <item name="sps-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="places" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpotPlaySay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpotPlaySay" type="462c0819:PsiDirectoryNode" />
+              <item name="sps-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="places" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpotPlaySay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpotPlaySay" type="462c0819:PsiDirectoryNode" />
+              <item name="sps-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="places" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="place" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpotPlaySay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpotPlaySay" type="462c0819:PsiDirectoryNode" />
+              <item name="sps-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="reports" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpotPlaySay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpotPlaySay" type="462c0819:PsiDirectoryNode" />
+              <item name="sps-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="reports" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpotPlaySay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpotPlaySay" type="462c0819:PsiDirectoryNode" />
+              <item name="sps-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="rewards" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpotPlaySay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpotPlaySay" type="462c0819:PsiDirectoryNode" />
+              <item name="sps-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="rewards" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpotPlaySay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpotPlaySay" type="462c0819:PsiDirectoryNode" />
+              <item name="sps-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="rewards" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpotPlaySay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpotPlaySay" type="462c0819:PsiDirectoryNode" />
+              <item name="sps-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="saynplay" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpotPlaySay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpotPlaySay" type="462c0819:PsiDirectoryNode" />
+              <item name="sps-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpotPlaySay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpotPlaySay" type="462c0819:PsiDirectoryNode" />
+              <item name="sps-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpotPlaySay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpotPlaySay" type="462c0819:PsiDirectoryNode" />
+              <item name="sps-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpotPlaySay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpotPlaySay" type="462c0819:PsiDirectoryNode" />
+              <item name="sps-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpotPlaySay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpotPlaySay" type="462c0819:PsiDirectoryNode" />
+              <item name="sps-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpotPlaySay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpotPlaySay" type="462c0819:PsiDirectoryNode" />
+              <item name="sps-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="email" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpotPlaySay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="EmailMe&#9;null&#9;null&#10;reverse&#9;null&#9;null&#10;relations&#9;null&#9;null&#10;comp&#9;FILE&#9;file://C:/Users/Администратор/SpotPlaySay/Lib/site-packages/rest_framework/compat.py&#10;views&#9;FILE&#9;file://C:/Users/Администратор/SpotPlaySay/Lib/site-packages/rest_framework/views.py&#10;routers&#9;FILE&#9;file://C:/Users/Администратор/SpotPlaySay/Lib/site-packages/rest_framework/routers.py&#10;compa&#9;FILE&#9;file://C:/Users/Администратор/SpotPlaySay/Lib/site-packages/rest_framework/compat.py&#10;rou&#9;FILE&#9;file://C:/Users/Администратор/SpotPlaySay/Lib/site-packages/rest_framework/routers.py&#10;router&#9;null&#9;null&#10;rest_frame&#9;null&#9;null&#10;plugin&#9;ACTION&#9;WelcomeScreen.Plugins" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Администратор\SpotPlaySay\sps-backend\rewards\api" />
+      <recent name="C:\Users\Администратор\SpotPlaySay\sps-backend\users\templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cb8f946-2584-4fd1-aaf1-9f42ded53d34" name="Default Changelist" comment="" />
+      <created>1544817574277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544817574277</updated>
+    </task>
+    <task id="LOCAL-00001" summary="1. The Website and Group fields are added to the Place model.&#10;2. Small changes according to null-constraints are removed.&#10;3. The longitude and latitude fields are returned instead of the location field in the Place model.">
+      <created>1546618761458</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1546618761458</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1. Api longitude and latitude bug fixes">
+      <created>1546769762423</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1546769762423</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1. The active webpromotion API was created by link: .../webpromo/today/&#10;2. Three new fields in the User model: inviter, invitee, credit. User can spread his inviter code to invite new users. If this code is specified in the invitee field before creating a new account both users will get additional 10$ in the credit field.&#10;3. The API for inviter, invitee, credit was added in the user API.&#10;4. Email confirmation redirects user to .../confirmation.">
+      <created>1547030240615</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1547030240615</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1. .../api/v1/webpromo/today/ displays list of the Webpromotion objects instead of one.&#10;2. The booking field added to the Place model.&#10;3. Booking and Book models added.&#10;4. Username reset (.../api/v1/username_reset/) and email reset (.../api/v1/email_reset/) added.&#10;5. Reward and Purchase models added.&#10;6. Invite system reworked: the referral gets 10$ when the invited user use his credits for booking.">
+      <created>1548012852187</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1548012852187</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1. Booking (.../api/v1/bookings/) and Book (.../api/v1/books/) APIs added.&#10;2. The booking system sends messages to user, place, booking@spotplaysay.com after successful creation.&#10;3. The booking field added to the Place model. If booking is created for the place, the booking field will be set to True.&#10;4. Reward (.../api/v1/rewards/) and Purchase (.../api/v1/purchases/) APIs added.">
+      <created>1548269425132</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1548269425132</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1. The Website and Group fields now can be blank.&#10;2. API's bugs fixed">
+      <created>1548356977294</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1548356977294</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1. Price added to message">
+      <created>1548440673322</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1548440673322</updated>
+    </task>
+    <task id="LOCAL-00008" summary="1. Messages reworked.&#10;2. The address field removed. Country, city, state, street fields added instead.&#10;3. The phone field added to the User model.&#10;4. The comment field added to the Book model.&#10;5. The commission field added to the Booking model.">
+      <created>1548695753111</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1548695753111</updated>
+    </task>
+    <task id="LOCAL-00009" summary="1. Queries&#10;2. Images for webpromotions&#10;3. Museum and Zoo subtypes added">
+      <created>1549282636551</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1549282636551</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14957781" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32915717" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1. The Website and Group fields are added to the Place model.&#10;2. Small changes according to null-constraints are removed.&#10;3. The longitude and latitude fields are returned instead of the location field in the Place model." />
+    <MESSAGE value="1. Api longitude and latitude bug fixes" />
+    <MESSAGE value="1. The active webpromotion API was created by link: .../webpromo/today/&#10;2. Three new fields in the User model: inviter, invitee, credit. User can spread his inviter code to invite new users. If this code is specified in the invitee field before creating a new account both users will get additional 10$ in the credit field.&#10;3. The API for inviter, invitee, credit was added in the user API.&#10;4. Email confirmation redirects user to .../confirmation." />
+    <MESSAGE value="1. .../api/v1/webpromo/today/ displays list of the Webpromotion objects instead of one.&#10;2. The booking field added to the Place model.&#10;3. Booking and Book models added.&#10;4. Username reset (.../api/v1/username_reset/) and email reset (.../api/v1/email_reset/) added.&#10;5. Reward and Purchase models added.&#10;6. Invite system reworked: the referral gets 10$ when the invited user use his credits for booking." />
+    <MESSAGE value="1. Booking (.../api/v1/bookings/) and Book (.../api/v1/books/) APIs added.&#10;2. The booking system sends messages to user, place, booking@spotplaysay.com after successful creation.&#10;3. The booking field added to the Place model. If booking is created for the place, the booking field will be set to True.&#10;4. Reward (.../api/v1/rewards/) and Purchase (.../api/v1/purchases/) APIs added." />
+    <MESSAGE value="1. The Website and Group fields now can be blank.&#10;2. API's bugs fixed" />
+    <MESSAGE value="1. Price added to message" />
+    <MESSAGE value="1. Messages reworked.&#10;2. The address field removed. Country, city, state, street fields added instead.&#10;3. The phone field added to the User model.&#10;4. The comment field added to the Book model.&#10;5. The commission field added to the Booking model." />
+    <MESSAGE value="1. Queries&#10;2. Images for webpromotions&#10;3. Museum and Zoo subtypes added" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. Queries&#10;2. Images for webpromotions&#10;3. Museum and Zoo subtypes added" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sps-backend/users/api/viewsets.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/users/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/users/managers.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/users/templates/users/password_reset_done.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/users/templates/users/password_reset_confirm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/reports/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2230" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/users/migrations/0006_user_rewards.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/1784310327/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="5152" column="8" selection-start-line="5152" selection-start-column="8" selection-end-line="5152" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/rewards/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Temp/Rar$DIa5916.27747/models.py" />
+    <entry file="file://$PROJECT_DIR$/sps-backend/users/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/rewards/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/rewards/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/users/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/users/api/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/users/token.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/users/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/rewards/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/places/migrations/0024_auto_20190119_1836.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="36" column="79" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/places/views.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/places/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/saynplay/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/users/api/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2516">
+          <caret line="169" column="19" selection-start-line="169" selection-start-column="19" selection-end-line="169" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/users/templates/users/email/name_reset.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/users/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/users/api/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/rewards/api/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/users/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/rewards/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/places/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="33" selection-start-line="33" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/reports/api/viewsets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/places/migrations/0023_auto_20181226_0857.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/places/migrations/0022_place_group.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/places/signals.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/places/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/places/templates/place/booking_admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/places/templates/place/booking_user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/users/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/django/core/mail/message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2975">
+          <caret line="196" column="6" selection-start-line="196" selection-start-column="6" selection-end-line="196" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/places/migrations/0021_place_address_phone_email_website.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/places/templates/place/booking_place.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/places/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6749">
+          <caret line="411" column="76" selection-start-line="411" selection-start-column="76" selection-end-line="411" selection-end-column="76" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/places/api/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/rewards/views.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/rewards/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/rewards/api/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+            <marker date="1548350379668" expanded="true" signature="292:297" ph="..." />
+            <marker date="1548350379668" expanded="true" signature="505:506" ph="..." />
+            <marker date="1548350379668" expanded="true" signature="505:507" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/places/api/viewsets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2618">
+          <caret line="174" column="88" selection-start-line="174" selection-start-column="73" selection-end-line="174" selection-end-column="88" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/rewards/api/viewsets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/saynplay/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2652">
+          <caret line="156" column="40" selection-start-line="156" selection-start-column="40" selection-end-line="156" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/saynplay/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sps-backend/places/api/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
